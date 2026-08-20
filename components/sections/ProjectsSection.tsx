@@ -25,9 +25,9 @@ export function ProjectsSection() {
   return (
     <SectionContainer id="projects">
       <SectionHeading
-        description="These are the strongest CV-backed builds across ML research, hackathons, backend systems, and product-focused engineering work."
+        description="These are my strongest projects across ML research, hackathons, backend systems, and product-focused engineering work."
         eyebrow="Selected Work"
-        title="Projects are the proof layer."
+        title="Projects that show compatibility and experience."
       />
 
       <Reveal className="mt-10 flex flex-wrap gap-3">

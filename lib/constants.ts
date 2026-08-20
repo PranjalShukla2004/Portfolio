@@ -52,7 +52,7 @@ export const heroContent = {
   badge: "BEng(Hons) @ The University of Edinburgh",
   roleLine: "Software Engineer | ML Systems | Quant & Backend Builder",
   intro:
-    "I am a BEng Electronics with Computer Science student at the University of Edinburgh with internship experience in ML-enabled products, backend services, and high-performance systems. My work is spread across Android OCR pipelines, trading systems, RAG search tools, and uncertainty-aware machine learning research.",
+    "I am a BEng Electronics with Computer Science student at the University of Edinburgh with internship experience in ML products, backend services, and high-performance systems. My work is spread across Android OCR pipelines, trading systems, RAG search tools, and uncertainty-aware machine learning research.",
   pills: [
     "University of Edinburgh",
     "Kaiteki AI and Tech Mahindra",

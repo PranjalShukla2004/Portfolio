@@ -60,9 +60,9 @@ export function ContactSection() {
   return (
     <SectionContainer id="contact">
       <SectionHeading
-        description="Reach out for software engineering, ML systems, backend, quant, or collaboration opportunities. The direct links below use the contact details from the CV."
+        description="Reach out for software engineering, ML systems, backend and quant opportunities. The direct links below use the contact details from the CV."
         eyebrow="Contact"
-        title="Finish with a clean invitation to reach out."
+        title="Would like to know more about me?"
       />
 
       <div className="mt-12 grid gap-6 lg:grid-cols-[0.9fr_1.1fr]">

@@ -152,9 +152,8 @@ export function HeroSection() {
                 Current Snapshot
               </p>
               <p className="mt-4 text-sm leading-7 text-foreground/76">
-                The portfolio is grounded in the actual work: research-grade ML
-                experimentation, production-style internships, and systems builds
-                with measurable outcomes rather than generic portfolio filler.
+                The portfolio is grounded in the actual work that I have done in the past: research ML
+                experimentation, internships, and systems builds with numeric outcomes.
               </p>
             </div>
           </motion.div>

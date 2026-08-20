@@ -12,9 +12,9 @@ export function SkillsSection() {
   return (
     <SectionContainer id="skills">
       <SectionHeading
-        description="The skills layout stays intentionally structured: grouped, quick to scan, and consistent with the intro’s AI-inspired visual language without turning into a cluttered diagram."
+        description="The skills layout intentionally structures as clusters so that it is grouped, quick to scan, and consistent."
         eyebrow="Capability Map"
-        title="Skills are grouped into readable clusters."
+        title="Skills that form the base of everything."
       />
 
       <div className="mt-12 grid gap-6 md:grid-cols-2">

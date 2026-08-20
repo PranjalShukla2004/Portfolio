@@ -12,9 +12,9 @@ export function ExperienceSection() {
   return (
     <SectionContainer id="experience">
       <SectionHeading
-        description="The experience section favors a clean vertical flow so the site remains recruiter-friendly even after the cinematic intro."
+        description="This section will show you an easy to follow vertical flow of the different professional and academic relevant experiences in my field."
         eyebrow="Trajectory"
-        title="Experience is presented as a clear timeline."
+        title="Experiences through the last few years"
       />
 
       <div className="relative mt-14">
